@@ -10,7 +10,7 @@ const array4 = [100, 50, 200, 400, 20, 60, 10, 90, 300, 200];
 //////////////////////////////////////////////////////////////////////////////////////////////////////
 function buyAndSellAlgorithm (array) {
     //console.log('func');
-    var amount = 0; //alınan yatırım gerecinin miktarı tutacak olan değişken
+    var amount = 0; //alınan yatırım gerecinin miktarını tutacak olan değişken
     var profit = 0; //o anki karı tutacak olan değişken
     var takenValue = 0; //satın alma işlemi yapılırkenki alış fiyatı
     var has = false; //o an kullanıcının elinde herhangi bir yatırım gerecinin olup olmadığı
